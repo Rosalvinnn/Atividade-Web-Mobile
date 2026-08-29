@@ -4,8 +4,7 @@ export default function Atividade3() {
   return (
     <main className={styles.container}>
       <p className={styles.paragrafo}>
-        Este é um parágrafo da terceira atividade de CSS. Todo o texto
-        deste parágrafo deve aparecer sublinhado e utilizando a fonte Arial.
+        Parágrafo da terceira atividade de CSS.
       </p>
 
       <a href="https://www.friv.com" className={styles.link}>
