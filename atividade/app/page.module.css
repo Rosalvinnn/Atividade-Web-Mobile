@@ -12,7 +12,7 @@
 
 .links a {
   padding: 10px 20px;
-  background-color: white;
+  background-image: url("/logo1.jpg");
   color: black;
   text-decoration: none;
   border: 2px solid green;
