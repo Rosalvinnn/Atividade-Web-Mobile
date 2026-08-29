@@ -1,6 +1,6 @@
 .container {
   min-height: 100vh;
-  background-color: blue;
+  background-image: url("/logo1.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -10,8 +10,5 @@
 .container h1 {
   background-color: red;
   border: 2px solid green;
-}
-  background: color-mix(in srgb, currentColor 8%, transparent);
-  padding: 0.1em 0.4em;
-  border-radius: 6px;
+  color: black;
 }
